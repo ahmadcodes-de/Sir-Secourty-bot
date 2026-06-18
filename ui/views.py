@@ -1048,7 +1048,7 @@ class EnhancedDeveloperView(View):
         self.add_item(Button(
             label=strings[language]['contact_developer'],
             style=discord.ButtonStyle.link,
-            url="https://www.instagram.com/963sir/",
+            url="https://www.instagram.com/ahmadcodes.de/",
             emoji="👨‍💻"
         ))
         
